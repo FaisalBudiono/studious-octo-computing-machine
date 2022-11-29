@@ -1,7 +1,9 @@
 > Title
 # First Heading
-## 1.1 Content
+## It became Lorem
 
 # Second Heading
+## It became Ipsum
+
 # Third Heading
 
